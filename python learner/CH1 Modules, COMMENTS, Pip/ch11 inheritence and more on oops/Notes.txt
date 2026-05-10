@@ -1,0 +1,24 @@
+OOOPS:
+    like here is self: we use self for readability and why when se use classmethod so why we use cls ad what is the meaning of cls and self
+
+
+OOPS:
+    @.GETTERS AND @.SETTERS, @PROPERTY DECORATORS i want to learn theese things but they are not sitting in my mind...
+
+OOPS:
+    OPERATOR OVERLOADING IN PYTHON, __str__(), __len__()  i want to learn theese things but they are not sitting in my mind...
+
+
+
+
+The 4 Main OOP Concepts
+
+In Object-Oriented Programming there are 4 pillars:
+
+1. Encapsulation – keeping data safe
+
+2. Inheritance – using parent class features
+
+3. Polymorphism – same function different behavior
+
+4. Abstraction – hiding complex details
